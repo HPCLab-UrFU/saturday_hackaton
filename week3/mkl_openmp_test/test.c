@@ -1,3 +1,5 @@
+//Created by: Vadim Ushakov
+
 #include "all_func.h"
 
 
